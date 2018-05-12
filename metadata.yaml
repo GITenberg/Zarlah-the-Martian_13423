@@ -1,0 +1,28 @@
+_repo: Zarlah-the-Martian_13423
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Grisewood, R. Norman (Robert Norman)
+    birthdate: 1876
+    deathdate: 1923
+    gutenberg_agent_id: '5042'
+    url: http://www.gutenberg.org/2009/agents/5042
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2004-09-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13423'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Mars (Planet) -- Fiction'
+- !lcsh 'Science fiction'
+- !lcc 'PS'
+title: Zarlah the Martian
+url: http://www.gutenberg.org/ebooks/13423
